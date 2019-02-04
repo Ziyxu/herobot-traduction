@@ -1,0 +1,33 @@
+﻿{
+	"obj_scope":"extension",
+	"obj_revision":1.0,
+	"obj_language":"french",
+	"obj_description":"The french for the Music Plugin",
+  "word": {
+    "__comment": "Command kick traduction",
+    "c-kick-description": "Expulse un utulisateur du serveur",
+    "c-kick-kicked-message": "Hey [@mention] ! **Tu es été expulsé** du serveur [@server] par [@kicker] pour `[@raison]` tu peut revenir ici [@link]",
+    "c-kick-cant-kick-moderator": "🤦 [@user] est un modérateur, tu ne peut pas le kicker !",
+    "c-kick-confirmed": "<:Yes:530263286952886292> | [@user] a bien été expulsé du serveur.",
+    "__comment": "Command ban traduction",
+    "c-ban-description": "Ban un utulisateur du serveur",
+    "c-ban-banned-message": "Hey [@mention] ! **Tu es été banni** du serveur [@server] par [@kicker] pour `[@raison]",
+    "c-ban-cant-ban-moderator": "🤦 [@user] est un modérateur, tu ne peut pas le bannir !",
+    "c-ban-confirmed": "<:Yes:530263286952886292> | [@user] a bien été banni du serveur.",
+    "__comment": "Command softBan traduction",
+    "c-softban-description": "Un expulsion qui supprime les messages des 7 derniers jours !",
+    "c-softban-softbanned-message": "Hey [@mention] ! **Tu es été SoftBan** du serveur [@server] par [@kicker] pour `[@raison]` tu peut revenir ici [@link]",
+    "c-softban-cant-softban-moderator": "🤦 [@user] est un modérateur, tu ne peut pas le bannir !",
+    "c-softban-confirmed": "<:Yes:530263286952886292> | [@user] a bien été softBan du serveur.",
+    "__comment": "Command clear traduction",
+    "c-clear-description": "Supprime un nombre de messages donné",
+    "c-clear-confirmed": "<:Yes:530263286952886292> | [@nombre_messages] on été supprimés !",
+    "__comment": "Create news traduction",
+	"c-createnews-description":"Crée un message de news",
+    "c-createnews-state-1": "📰 | Entrez le titre de la nouvelle",
+    "c-createnews-state-2": "📰 | Entrez le contenu de la nouvelle ",
+    "c-createnews-state-3": "📰 | Mentionnez le channel ou vous voulez envoyer la nouvelle",
+    "c-createnews-state-error": "<:No:530263286978052128> | Une erreur est survenue !",
+    "c-createnews-state-success": "🗞 | Message envoyé avec succès !"
+  }
+}

@@ -1,0 +1,40 @@
+﻿{
+	"obj_scope":"extension",
+	"obj_revision":1.0,
+	"obj_language":"french",
+	"obj_description":"The french for the Music Plugin",
+  "word": {
+    "__comment": "Globals fo for plugin",
+    "pl-m-oops": "Il semble qu'il y ait un problème <:No:530263286978052128>",
+    "pl-m-unknown-error": "Une erreur inconnue est survenue ...",
+    "pl-m-not-connected": "Je ne suis connecté a aucun channel vocal, fais `;join` puis réessaie",
+    "pl-m-already-connected": "Je suis déja connecté a un channel vocal, fais `;stop` puis réessaie",
+    "__comment": "Command play traduction",
+    "c-play-description": "Démarre une musique",
+    "c-play-error-load-music": "Un erreur est survenue pendant le chargement de la musique",
+    "c-play-error-not-found": "Aucune musique n'as pus etre trouvée...",
+    "c-play-loaded-playlist": "J'ai chargé [@songs_count] musiques dans la playlist [@playlist_name]",
+    "c-play-loaded-song": "J'ai chargé la musique [@music] de [@author]",
+    "c-join-connected-title": "<:Yes:530263286952886292> Connecté",
+    "c-join-connected-content": "Je me suis connecté au channel `[@channel]`",
+    "c-join-no-voice-channel": "Vous n'ètes pas dans aucun channel vocal 🤦",
+    "__comment": "Command stop traduction",
+    "c-stop-description": "Arrete la musique",
+    "c-stop-ok-title": "<:Yes:530263286952886292> Succès",
+    "c-stop-ok-content": "La musique a été arretée avec succès",
+    "__comment": "Command pause traduction",
+    "c-pause-description": "Mets la musique sur pause",
+    "c-pause-paused": "⏸ J'ai mis la musique en pause",
+    "c-pause-resumed": "▶ J'ai remis la musique",
+    "c-pause-title": "⏯ Pause",
+    "__comment": "Command skip traduction",
+    "c-skip-description": "Saute pour allez a la prochaine musique",
+    "c-skip-skipped": "⏩ J'ai sauté cette musique",
+    "__comment": "Command resume traduction",
+    "c-resume-description": "Remets la musique en marche",
+    "c-resume-title": "▶ Redémarré",
+    "c-resume-content": "Musique remise en marche chef !"
+
+
+  }
+}

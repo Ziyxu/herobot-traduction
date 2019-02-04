@@ -1,0 +1,12 @@
+{
+	"obj_scope":"extension",
+	"obj_revision":1.0,
+	"obj_language":"french",
+	"obj_description":"The french for the Music Plugin",
+	"word":{
+		"__comment":"Command setupGitlab traduction",
+		"c-setupgitlab-description":"Command permettant de configurer GitLab avec HeroBot",
+		"c-setupgitlab-success":"Merci d'avoir configuré, pour terminer l'installation vous devez créer un WebHook pointant vers `[@link]` avec comme token `[@token]`"
+		
+	}
+}

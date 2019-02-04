@@ -1,0 +1,17 @@
+{
+	"obj_scope":"extension",
+	"obj_revision":1.0,
+	"obj_language":"french",
+	"obj_description":"The french for the Music Plugin",
+  "word": {
+    "__comment": "Core",
+    "sys-insufisent-permission": "<:No:530263286978052128> Je n'ai pas assez de mermissions de faire ca il me manque celle ci : `[@permission]`",
+    "sys-user-insufisent-permission": "<:No:530263286978052128> Tu n'as pas la permission nécessaire pour faire ça !",
+    "sys-command-only-server": "<:No:530263286978052128> Cette commande ne fonctionne que sur des serveurs !",
+    "sys-command-admin-only": "<:No:530263286978052128> Seul un administrateur système de HeroBot peut effecture cette action !",
+    "sys-command-invalid": "<:No:530263286978052128> Le format de cette commande ne me semble pas valide",
+    "sys-command-cooldown": "<:No:530263286978052128> 5s sont nécessaires entre chaque commande",
+    "sys-403": "<:No:530263286978052128> Un operation non try...catch est survenue (manque de permissions)",
+    "sys-error": "<:No:530263286978052128> Une erreur système est survenue, merci de reporter cette erreur (ici)[[@link]]"
+  }
+}

@@ -1,0 +1,48 @@
+{
+	"obj_scope":"extension",
+	"obj_revision":1.0,
+	"obj_language":"english",
+	"obj_description":"The english for the HeroBot Basic Plugin"
+	"word":{
+		"__comment":"Command quit traduction"
+		"c-quit-description":"",
+		"c-quit-message":"",
+		"__comment":"Command help traduction"
+		"c-help-description":"",
+		"c-help-command-title":"",
+		"__comment":"Command support traduction"
+		"c-support-description":"",
+		"c-support-message":"",
+		"c-support-message-content":"",
+		"__comment":"Command pl traduction"
+		"c-pl-description":"",
+		"c-pl-title":"",
+		"__comment":"Leave / Join messages",
+		"e-user-left-title":"",
+		"e-user-left-message":"",
+		"e-user-join-title":"",
+		"e-user-join-message":"",
+		"__comment":"Command about traduction",
+		"c-about-description":"",
+		"c-about-title":"",
+		"c-about-message-content":"",
+		"__comment":"Command language",
+		"c-language-description":"",
+		"c-language-languages-disponibles":"",
+		"c-language-changed-ok":"",
+		"c-language-error-description":"",
+		"__comment":"Command userInfo traduction",
+		"c-user-description":"",
+		"c-user-title":"",
+		"c-user-exp-title":"",
+		"c-user-exp-content":"",
+		"c-user-premium-title":"",
+		"c-user-premium-content-true":"",
+		"c-user-premium-content-false":"",
+		"c-user-money-title":"",
+		"c-user-money-currency":"$",
+		"c-user-servers-title":"",
+		"c-user-servers-and-more":"",
+		"c-user-reputation-title":"",
+	}
+}
